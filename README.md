@@ -1,10 +1,8 @@
-# Résumé
+# Resume
 
 Hit branch [zh_CN](https://github.com/billryan/resume/tree/zh_CN) if you want a Simplified Chinese résumé.
 
-中文用户请前往 [zh_CN](https://github.com/billryan/resume/tree/zh_CN) 分支。
-
-An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by 
+An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by
 
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv)
 - [res](https://www.ctan.org/pkg/res)
@@ -26,24 +24,12 @@ An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by
 
 ### Sample Output
 
-- [PDF, English](https://latexonline.cc/compile?git=https://github.com/billryan/resume&target=resume.tex&command=xelatex)
-- [PDF with the photo, English](https://latexonline.cc/compile?git=https://github.com/billryan/resume&target=resume_photo.tex&command=xelatex)
-- [简体中文 PDF](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.pdf)
-
-![English](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.png)
-![English with photo](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.png)
-![简体中文](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.png)
+- [PDF, English](https://latexonline.cc/compile?git=https://github.com/brunats/resume&target=resume.tex&command=xelatex)
 
 ## Usage
 
 1. Edit in ShareLaTeX online - <https://www.sharelatex.com/templates/556b27cf0d23e5a8117053d9>, **no TeX software install!**
 2. Compile tex on your Computer
-
-If you only need a résumé in English or have installed Adobe Simplified Chinese on your OS, **It would be better to clone only the master branch,** since the Simplified Chinese fonts files are too large.
-
-```
-git clone https://github.com/billryan/resume.git --branch master --depth 1 --single-branch <folder>
-```
 
 ## License
 
