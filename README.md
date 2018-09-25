@@ -26,11 +26,6 @@ An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by
 
 - [PDF, English](https://latexonline.cc/compile?git=https://github.com/brunats/resume&target=resume.tex&command=xelatex)
 
-## Usage
-
-1. Edit in ShareLaTeX online - <https://www.sharelatex.com/templates/556b27cf0d23e5a8117053d9>, **no TeX software install!**
-2. Compile tex on your Computer
-
 ## License
 
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
